@@ -1,0 +1,2 @@
+
+## graphqlAPIをApolloClientなしで叩こうとするリポジトリ
